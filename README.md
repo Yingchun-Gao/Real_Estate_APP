@@ -2,7 +2,7 @@
 
 This project is deployed as an interactive Streamlit application:
 
-https://yingchun-gao-real-estate-price-prediction.streamlit.app/
+https://yingchun-gao-real-estate-app.streamlit.app/
 
 This application predicts **house prices** based on property characteristics such as size, number of bedrooms, construction year, and other related factors.
 
